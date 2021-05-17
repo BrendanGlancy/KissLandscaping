@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KissLandscaping/static/css/main.a0ce62b7.chunk.css",
-    "main.js": "/KissLandscaping/static/js/main.cf30e975.chunk.js",
-    "main.js.map": "/KissLandscaping/static/js/main.cf30e975.chunk.js.map",
+    "main.js": "/KissLandscaping/static/js/main.c80f2fbc.chunk.js",
+    "main.js.map": "/KissLandscaping/static/js/main.c80f2fbc.chunk.js.map",
     "runtime-main.js": "/KissLandscaping/static/js/runtime-main.60754990.js",
     "runtime-main.js.map": "/KissLandscaping/static/js/runtime-main.60754990.js.map",
     "static/js/2.4e0c5ba9.chunk.js": "/KissLandscaping/static/js/2.4e0c5ba9.chunk.js",
@@ -16,12 +16,12 @@
     "static/media/svg-4.bc2ea7f7.svg": "/KissLandscaping/static/media/svg-4.bc2ea7f7.svg",
     "static/media/svg-5.a8377703.svg": "/KissLandscaping/static/media/svg-5.a8377703.svg",
     "static/media/svg-6.37b6de74.svg": "/KissLandscaping/static/media/svg-6.37b6de74.svg",
-    "static/media/video.9df8058b.mp4": "/KissLandscaping/static/media/video.9df8058b.mp4"
+    "static/media/video.fd56f47f.mp4": "/KissLandscaping/static/media/video.fd56f47f.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.60754990.js",
     "static/js/2.4e0c5ba9.chunk.js",
     "static/css/main.a0ce62b7.chunk.css",
-    "static/js/main.cf30e975.chunk.js"
+    "static/js/main.c80f2fbc.chunk.js"
   ]
 }
