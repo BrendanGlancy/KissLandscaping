@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/KissLandscaping/static/css/main.a0ce62b7.chunk.css",
-    "main.js": "/KissLandscaping/static/js/main.a7b12ff9.chunk.js",
-    "main.js.map": "/KissLandscaping/static/js/main.a7b12ff9.chunk.js.map",
-    "runtime-main.js": "/KissLandscaping/static/js/runtime-main.60754990.js",
-    "runtime-main.js.map": "/KissLandscaping/static/js/runtime-main.60754990.js.map",
-    "static/js/2.0294e378.chunk.js": "/KissLandscaping/static/js/2.0294e378.chunk.js",
-    "static/js/2.0294e378.chunk.js.map": "/KissLandscaping/static/js/2.0294e378.chunk.js.map",
-    "index.html": "/KissLandscaping/index.html",
-    "static/css/main.a0ce62b7.chunk.css.map": "/KissLandscaping/static/css/main.a0ce62b7.chunk.css.map",
-    "static/js/2.0294e378.chunk.js.LICENSE.txt": "/KissLandscaping/static/js/2.0294e378.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/KissLandscaping/static/media/svg-1.e6ff4559.svg",
-    "static/media/svg-2.svg": "/KissLandscaping/static/media/svg-2.04a9d8e0.svg",
-    "static/media/svg-3.svg": "/KissLandscaping/static/media/svg-3.4009ef32.svg",
-    "static/media/svg-4.bc2ea7f7.svg": "/KissLandscaping/static/media/svg-4.bc2ea7f7.svg",
-    "static/media/svg-5.a8377703.svg": "/KissLandscaping/static/media/svg-5.a8377703.svg",
-    "static/media/svg-6.37b6de74.svg": "/KissLandscaping/static/media/svg-6.37b6de74.svg",
-    "static/media/video.fd56f47f.mp4": "/KissLandscaping/static/media/video.fd56f47f.mp4"
+    "main.css": "/static/css/main.a0ce62b7.chunk.css",
+    "main.js": "/static/js/main.b78d1de8.chunk.js",
+    "main.js.map": "/static/js/main.b78d1de8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81a00696.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81a00696.js.map",
+    "static/js/2.5446261e.chunk.js": "/static/js/2.5446261e.chunk.js",
+    "static/js/2.5446261e.chunk.js.map": "/static/js/2.5446261e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a0ce62b7.chunk.css.map": "/static/css/main.a0ce62b7.chunk.css.map",
+    "static/js/2.5446261e.chunk.js.LICENSE.txt": "/static/js/2.5446261e.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/static/media/svg-1.e6ff4559.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.04a9d8e0.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.4009ef32.svg",
+    "static/media/svg-4.bc2ea7f7.svg": "/static/media/svg-4.bc2ea7f7.svg",
+    "static/media/svg-5.a8377703.svg": "/static/media/svg-5.a8377703.svg",
+    "static/media/svg-6.37b6de74.svg": "/static/media/svg-6.37b6de74.svg",
+    "static/media/video.fd56f47f.mp4": "/static/media/video.fd56f47f.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.60754990.js",
-    "static/js/2.0294e378.chunk.js",
+    "static/js/runtime-main.81a00696.js",
+    "static/js/2.5446261e.chunk.js",
     "static/css/main.a0ce62b7.chunk.css",
-    "static/js/main.a7b12ff9.chunk.js"
+    "static/js/main.b78d1de8.chunk.js"
   ]
 }
