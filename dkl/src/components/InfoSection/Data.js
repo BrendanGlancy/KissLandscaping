@@ -22,7 +22,7 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Who We Are',
-  headline: 'North East Ohio Lanscapers',
+  headline: 'NorthEast Ohio Lanscapers',
   description: 'Kiss Landscaping Company is a complete professional landscaping service with a wide-range of experience from large commercial properties to smaller custom jobs.',
   buttonLabel: 'Learn More',
   imgStart: true,
@@ -34,14 +34,14 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: 'about',
+  id: 'service',
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
   topLine: 'Landscape Design Services',
   headline: 'From patios and pools, to fire pits, and planting',
   description: 'We can help you pick out colors, textures and materials for all the features of your outdoor living space – from pavers, rock, tile, boulders, stains, paints and much more.',
-  buttonLabel: 'Services',
+  buttonLabel: 'Get a Quote',
   imgStart: false,
   img: require('../../images/svg-3.svg').default,
   alt: 'Gardening',
