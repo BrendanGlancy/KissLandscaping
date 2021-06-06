@@ -10,7 +10,8 @@ import  {
   HeroP,
   HeroBtnWrapper,
   ArrowForward,
-  ArrowRight
+  ArrowRight,
+  Link
 } from './HeroElements';
 
                                                                                  
@@ -32,12 +33,14 @@ const HeroSection = () => {
           Sign up today and get a quote, customized to your land and job
         </HeroP>
         <HeroBtnWrapper>
-          <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover}
+          <Button to='/contact'
+            onMouseEnter={onHover} 
+            onMouseLeave={onHover}
             primary='true'
             dark='true'
-          >
+          ><Link to='/contact'>
             Get Started {hover ? <ArrowForward /> : <ArrowRight />}
-          </Button>
+          </Link></Button>
         </HeroBtnWrapper>
       </HeroContent>
     </HeroContainer>
